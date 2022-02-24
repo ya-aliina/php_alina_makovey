@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f06c95c-d60a-457f-ba08-2a2334602983" name="Default Changelist" comment="Домашнее задание по лекции #1" />
+    <list default="true" id="8f06c95c-d60a-457f-ba08-2a2334602983" name="Default Changelist" comment="Домашнее задание по лекции #1">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1645650790934</updated>
-      <workItem from="1645650792539" duration="13568000" />
+      <workItem from="1645650792539" duration="13948000" />
     </task>
     <task id="LOCAL-00001" summary="Домашнее задание по лекции #1">
       <created>1645699479332</created>
